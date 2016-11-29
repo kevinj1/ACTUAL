@@ -44,8 +44,9 @@ public class sumar3_3 {
     public void sumatoria(){
         
         int s;
+        int c=1;
         
-        s=a+b;
+        s=a+b+c;
         
         JOptionPane.showMessageDialog(null, s);
         
